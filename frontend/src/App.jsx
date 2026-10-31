@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 import Sidebar from "./components/Sidebar";
-import StatCard from "./components/Statcard";
+import StatCard from "./components/StatCard";
 import TaskTable from "./components/TaskTable";
 import TaskModal from "./components/TaskModal";
 
